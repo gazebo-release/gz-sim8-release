@@ -1,3 +1,9 @@
+gz-sim8 (8.2.0-2~jammy) jammy; urgency=medium
+
+  * gz-sim8 8.2.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 23 Apr 2024 17:13:40 +0200
+
 gz-sim8 (8.2.0-1~jammy) jammy; urgency=medium
 
   * gz-sim8 8.2.0-1 release

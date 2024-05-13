@@ -112,7 +112,6 @@ Description: Gazebo Sim classes and functions for robot apps - Development files
 Package: python3-gz-sim8
 Architecture: any
 Depends: libgz-sim8 (= ${binary:Version}),
-         python3-distutils,
          python3-gz-math7,
          python3-gz-msgs10,
          python3-gz-transport13,

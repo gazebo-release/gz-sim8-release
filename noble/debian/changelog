@@ -1,3 +1,9 @@
+gz-sim8 (8.9.0-1~noble) noble; urgency=medium
+
+  * gz-sim8 8.9.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Mon, 10 Feb 2025 14:36:00 -0600
+
 gz-sim8 (8.8.0-1~noble) noble; urgency=medium
 
   * gz-sim8 8.8.0-1 release
